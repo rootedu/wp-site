@@ -1,0 +1,244 @@
+/* Coaching WordPress Theme 3.0.0 2019-04-22 */
++ Supported Elementor page builder (7 prebuilt demos ready).
++ Improved WordPress 5.0 compatibility.
++ Improved styles.
++ Fixed some minor bugs (outdated template in WooCommerce 3.6.0).
+
+/* Coaching WordPress Theme 2.3.4 2019-01-30 */
++ Improved Login Popup.
++ Improved styles.
++ Improved Google Captcha integration.
++ Fixed some minor bugs (style conflict with MiniOrange Plugin...).
+
+/* Coaching WordPress Theme 2.3.3 2018-10-16 */
++ Updated languages.
++ Improved styles (responsive, RTL...).
++ Fixed some minor bugs (wrong author link in Testimonials Widget, Number Events option in List Event Widget...).
+
+/* Coaching WordPress Theme 2.3.2 2018-09-06 */
++ Improved VC shortcodes.
++ Improved styles (responsive, RTL, curriculum...).
++ Fixed some minor bugs (outdated template in LearnPress 3.0.12, some words with wrong text domain...).
+
+/* Coaching WordPress Theme 2.3.1 2018-07-17 */
++ Updated demo data.
++ Add new demo Effective.
++ Fixed some minor bugs.
+
+/* Coaching WordPress Theme 2.3.0 2018-06-28 */
++ Supported WPBakery Page Builder.
++ Updated demo data.
++ Improved styles.
++ Fixed some minor bugs (issue with Login Redirect...).
+
+/* Coaching WordPress Theme 2.2.8 2018-05-24 */
++ Improved styles.
++ Fixed some minor bugs (outdated template in LearnPress 3.0.9 and WooCommerce 3.4.0).
+
+/* Coaching WordPress Theme 2.2.7 2018-05-22 */
++ Improved styles.
++ Fixed some minor bugs (outdated template in LearnPress 3.0.8).
+
+/* Coaching WordPress Theme 2.2.6 2018-05-10 */
++ Improved Events List widget (add Category filter, add Event Status filter).
++ Improved styles (RTL and responsive).
++ Fixed some minor bugs (issue with loading more reviews, remove some deprecated functions, wrong course-forum URL...).
+
+/* Coaching WordPress Theme 2.2.5 2018-04-11 */
++ Improved styles.
++ Fixed some minor bugs (notice on 404 pages, notice in event pages, issue with Toolbar display option...).
+
+/* Coaching WordPress Theme 2.2.4 2018-03-30 */
++ Improved styles.
++ Fixed some minor bugs (outdated template in LearnPress 3.0.4, issue with some Customize options...).
+
+/* Coaching WordPress Theme 2.2.3.1 2018-03-23 */
++ Fixed LearnPress 3.x data.
+
+/* Coaching WordPress Theme 2.2.3 2018-03-23 */
++ Improved styles (Coming Soon Courses, Courses Colection, RTL...).
++ Fixed some minor bugs (issue with LearnPress 3.x, notices in Event pages...).
+
+/* Coaching WordPress Theme 2.2.2 2018-03-15 */
++ Prepared for the next LearnPress 3.0.
++ Updated styles (RTL, responsive...).
++ Fixed some minor bugs (issue with Update Cart button, issue with some widgets...).
+
+/* Coaching WordPress Theme 2.2.1 2018-03-05 */
++ Prepared for the next LearnPress 3.0.
++ Improved widgets (multi addresses for Google Map widget, support videos for Round Slider widget...).
++ Updated styles (demo Business, widgets...).
++ Fixed Health Coaching 3 demo data.
++ Fixed WooCommerce outdated templates.
+
+/* Coaching WordPress Theme 2.2 2018-02-13 */
++ Prepared for the next LearnPress 3.0.
++ Updated styles (demo Business, WooCommerce ...).
++ Fixed WooCommerce outdated templates.
++ Fixed some minor bugs (issue with WC product description, issue with wpengine, ...).
+
+/* Coaching WordPress Theme 2.1.3 2018-01-17 */
++ Updated styles.
++ Updated new documentation.
++ Fixed some minor bugs (issue with WC product thumbnail, issue with Portfolio plugin, ...).
+
+/* Coaching WordPress Theme 2.1.2 2018-01-09 */
++ Added Blank Page template.
++ Prepared for the next LearnPress 3.0.
++ Improved styles (RTL, responsive, description on single product pages, testimonial width...).
++ Fixed some minor bugs (issue with Social Sharing, issues with mobile view, payment for events...).
+
+/* Coaching WordPress Theme 2.1.1 2017-12-01 */
++ Updated RTL demo data.
++ Improved WordPress 4.9 compatibility.
++ Improved styles (RTL, responsive...).
++ Fixed XSS issues.
+
+/* Coaching WordPress Theme 2.1.0 2017-11-03 */
++ Updated LearnPress (version 2.1.9.2) outdated templates.
++ Updated WooCommerce (version 3.2.3) outdated templates.
++ Added option to show/hide category description.
++ Added new option to adjust course tabs (menu Customize / Courses / Single Pages).
++ Supported membership features.
++ Fixed some minor bugs (issue with WC variant products, issues with mobile view, payment for events...).
+
+/* Coaching WordPress Theme 2.0.1 2017-09-28 */
++ Required Pricing Plus Table plugin.
++ Updated events order.
++ Improved widgets (update font for Icon Box widget, update image size for Images widget).
++ Updated styles.
++ Fixed some minor bugs (logo issue, login link in event page, lesson duration, issue with aq_resize...).
+
+/* Coaching WordPress Theme 2.0 2017-08-29 */
++ Added a brand new Pre-built DEMO for Business.
++ Added Thim Core plugin (new customizer, new post meta, new demo importer...).
++ Improved widgets.
++ Updated styles.
++ Fixed some minor bugs.
+
+/* Coaching WordPress Theme 1.7 2017-06-23 */
++ Supported Our Team archive page.
++ Improved some widgets.
++ Improved styles.
++ Prepared for the next LearnPress 2.1.7.
++ Fixed some minor bugs (start quiz & re-take quiz issues, lesson status issue...)
+
+
+/* Coaching WordPress Theme 1.6.0 2017-04-28 */
++ Update options related post/courses
++ Update: Slider Revolution v5.4.3.1
++ Fixed: Some minor issues
+
+/* Coaching WordPress Theme 1.5.9 2017-04-14 */
++ Fixed outdated of Learnpress
++ Update languages theme
++ Updated WP Events Manager
++ Update style login, register form Event
+
+/* Coaching WordPress Theme 1.5.8.1 2017-04-12 */
++ Fixed countdown in single event
++ Fixed priority of style.css for child theme
++ Updated style for new version SiteOrigin
+
+/* Coaching WordPress Theme 1.5.8 2017-04-10 */
++ Changed priority of style.css for child theme
++ Fixed link read more in related course
++ Updated meta box for course
++ Updated event countdown widget
++ Fixed outdated Woocommerce
++ Updated image demo
+
+/* Coaching WordPress Theme 1.5.7 2017-03-29 */
++ Fixed outdated of Learnpress
++ Update languages theme
++ Fixed error deactivate Learnpress Course Review
++ Updated countdown in widget Thim List Event
++ Included Map to Event
++ Improved css menu responsive 1024px
+
+/* Coaching WordPress Theme 1.5.6.1 2017-03-23*/
++ Improved widget Thim Heading
++ Update Event 2.0 Package
+
+/* Coaching WordPress Theme 1.5.6 2017-03-21*/
++ Fix get number realted post
++ Update languages theme
++ Update Event 2.0
++ Fixed minicart Woocommerce
++ Improved setting Testimonial
++ Improved widget Thim Login Popup
+
+/* Coaching WordPress Theme 1.5.5.1 - 2017-03-02 */
++ Update version theme
++ Fix missing Add to cart in variable product
+
+/* Coaching WordPress Theme 1.5.5 - 2017-03-01 */
++ Fixed outdated of Learnpress
++ Fix excerpt in course
++ Fix date format in Event
++ Fix sort by category in widget course
+
+/* Coaching WordPress Theme 1.5.4 - 2017-01-19 */
++ Added option to hidden LearnPress ads.
++ Fixed timeformat on list event and single event
++ Fixed rating in course
++ Included Social Login
+
+/* Coaching WordPress Theme 1.5.3 - 2017-01-12 */
++ Fixed outdated of Learnpress
++ Update style Profile.
++ Fixed checkout course
++ Fixed autoplay testimonial
++ Fixed timeformat on widget list event
+
+/* Coaching WordPress Theme 1.5.2 - 2017-01-03 */
++ Fixed outdated of Learnpress
++ Improved style popup course.
+
+/* Coaching WordPress Theme 1.5.1 - 2016-12-27 */
++ Improved style popup Course.
+
+/* Coaching WordPress Theme 1.5 - 2016-12-21 */
++ Improved demo data.
+
+/* Coaching WordPress Theme 1.4.1 - 2016-12-20 */
++ Fixed outdated of Learnpress
+
+/* Coaching WordPress Theme 1.4 - 2016-12-13 */
++ Improved style responsive.
++ Improved style homepage.
++ Improved style Demo Health Coaching 3.
+
+/* Coaching WordPress Theme 1.3.1 - 2016-12-06 */
++ Improved style responsive.
++ Improved style Demo Health Coaching 2.
++ Fixed outdated of Learnpress
+
+/* Coaching WordPress Theme 1.3 - 2016-11-30 */
++ Improved style demo RTL.
++ Released Demo Health Coaching 2.
+
+/* Coaching WordPress Theme 1.2 - 2016-11-21 */
++ Released Demo RTL.
++ Fix bug Take this course
+
+/* Coaching WordPress Theme 1.1.1 - 2016-11-17 */
++ Improved style course archive.
++ Improved style single course.
++ Updated addons for LearnPress.
+
+/* Coaching WordPress Theme 1.1.0 - 2016-11-10 */
++ Released Demo Health Coaching.
++ Improved styles homepage.
++ Improved style events archive.
++ Updated addons for LearnPress 2.0.
+
+/* Coaching WordPress Theme 1.0.2 - 2016-11-02 */
++ Supported LearnPress 2.0.
++ Updated demo data.
+
+/* Coaching WordPress Theme 1.0.1 - 2016-10-27 */
++ Updated prepare for LearnPress 2.0
+
+/* Coaching WordPress Theme 1.0.0 - 2016-10-27 */
++ Released Coaching WordPress Theme.
